@@ -1,0 +1,28 @@
+{% extends "layout.html" %}
+
+{% block title %}
+  TWEET APP 
+{% endblock title %}
+
+{% block content %}
+ 
+
+<h1 class="text-center  mt-5">Welcome to the Tweet App</h1>
+
+<h2> 
+    {% if form.instance.pk %} 
+        Edit Tweet 
+    {% else %}
+        Create New Tweet
+    {% endif %}
+    <form method="POST" enctype="multipart/form-data"
+    class="form">
+    {% csrf_token   %}
+    {{ form.as_p }}
+    <button class = "btn btn-warning" type="submit"> Submit</button>
+</form>
+<a href = "{% url 'tweet_list' %}" class="btn btn-secondary">Back to List</a>
+</h2>
+ 
+ 
+{% endblock   %}
