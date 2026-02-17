@@ -25,9 +25,13 @@ def tweet_list(request):
 def tweet_create(request):
     if request.method == 'POST':
         form = TweetForm(request.POST, request.FILES)
+        print("form ",form)
         if form.is_valid():
             tweet = form.save(commit=False)
+
+            print("tweet ",tweet)
             tweet.user = request.user
+            print("tweet after user ",tweet.user)
             tweet.save()
             return redirect('tweet_list')
         
@@ -66,14 +70,12 @@ def tweet_delete(request, tweet_id):
 
 def register(request):
     if request.method == 'POST':
-        form =UserRegistrationForm(request.POST)
+        form = UserRegistrationForm(request.POST)
         if form.is_valid():
-            user = form.save(commit=False)
-            user.set_password(form.cleaned_data['password1']) 
-            user.save()
+            user = form.save()
             login(request, user)
             return redirect('tweet_list')
-    else :
+    else:
         form = UserRegistrationForm()
-    
+        
     return render(request, 'registration/register.html', {'form': form})
