@@ -10,3 +10,5 @@ The Django Tweet Application is a lightweight Twitter-like platform where authen
 
 
 This project helped strengthen understanding of:
+
+- Django MVT Architecture
