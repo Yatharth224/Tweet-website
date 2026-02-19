@@ -15,3 +15,4 @@ This project helped strengthen understanding of:
 - User Authentication & Authorization
 - CRUD Operations
 - Template Rendering
+- Backend Development Fundamentals
