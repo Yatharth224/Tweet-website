@@ -22,3 +22,4 @@ This project helped strengthen understanding of:
 
 ### 🔐 Authentication System
 - User Registration
+- Login & Logout
