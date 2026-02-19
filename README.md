@@ -16,3 +16,5 @@ This project helped strengthen understanding of:
 - CRUD Operations
 - Template Rendering
 - Backend Development Fundamentals
+
+---
