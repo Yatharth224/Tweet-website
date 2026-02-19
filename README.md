@@ -13,3 +13,4 @@ This project helped strengthen understanding of:
 
 - Django MVT Architecture
 - User Authentication & Authorization
+- CRUD Operations
