@@ -24,3 +24,4 @@ This project helped strengthen understanding of:
 - User Registration
 - Login & Logout
 - Secure Password Handling
+- Restricted Access for Editing/Deleting Tweets
