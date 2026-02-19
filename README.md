@@ -19,3 +19,5 @@ This project helped strengthen understanding of:
 
 ---
 ## 🚀 Features
+
+### 🔐 Authentication System
