@@ -28,4 +28,5 @@ This project helped strengthen understanding of:
 
 ### 📝 Tweet Management
 - Create Tweet (Max 280 Characters)
+- View All Tweets
 
