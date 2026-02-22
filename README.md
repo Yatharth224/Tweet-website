@@ -30,3 +30,4 @@ This project helped strengthen understanding of:
 - Create Tweet (Max 280 Characters)
 - View All Tweets
 - Edit Own Tweets
+- Delete Own Tweets
