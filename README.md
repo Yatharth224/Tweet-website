@@ -27,3 +27,5 @@ This project helped strengthen understanding of:
 - Restricted Access for Editing/Deleting Tweets
 
 ### 📝 Tweet Management
+- Create Tweet (Max 280 Characters)
+
