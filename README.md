@@ -25,3 +25,5 @@ This project helped strengthen understanding of:
 - Login & Logout
 - Secure Password Handling
 - Restricted Access for Editing/Deleting Tweets
+
+### 📝 Tweet Management
