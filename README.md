@@ -36,3 +36,4 @@ This project helped strengthen understanding of:
 
 ### 🛡️ Security
 - CSRF Protection Enabled
+- User-based Authorization
