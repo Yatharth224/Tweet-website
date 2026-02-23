@@ -35,3 +35,4 @@ This project helped strengthen understanding of:
 
 
 ### 🛡️ Security
+- CSRF Protection Enabled
