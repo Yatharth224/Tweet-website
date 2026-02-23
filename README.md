@@ -32,3 +32,6 @@ This project helped strengthen understanding of:
 - Edit Own Tweets
 - Delete Own Tweets
 - Timestamp for Each Tweet
+
+
+### 🛡️ Security
