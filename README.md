@@ -37,3 +37,4 @@ This project helped strengthen understanding of:
 ### 🛡️ Security
 - CSRF Protection Enabled
 - User-based Authorization
+- ORM-based Database Protection (Prevents SQL Injection)
