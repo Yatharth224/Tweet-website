@@ -31,3 +31,4 @@ This project helped strengthen understanding of:
 - View All Tweets
 - Edit Own Tweets
 - Delete Own Tweets
+- Timestamp for Each Tweet
