@@ -44,3 +44,4 @@ This project helped strengthen understanding of:
 
 ## 🛠️ Tech Stack
 - **Backend:** Django
+- **Frontend:** HTML, CSS (Django Templates)
