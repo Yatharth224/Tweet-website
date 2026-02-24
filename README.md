@@ -46,3 +46,4 @@ This project helped strengthen understanding of:
 - **Backend:** Django
 - **Frontend:** HTML, CSS (Django Templates)
 - **Database:** SQLite (Default Django Database)
+- **Language:** Python
