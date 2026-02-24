@@ -43,3 +43,4 @@ This project helped strengthen understanding of:
 ---
 
 ## 🛠️ Tech Stack
+- **Backend:** Django
