@@ -47,4 +47,4 @@ This project helped strengthen understanding of:
 - **Frontend:** HTML, CSS (Django Templates)
 - **Database:** SQLite (Default Django Database)
 - **Language:** Python
--*Version Control:** Git & GitHub
+- **Version Control:** Git & GitHub
