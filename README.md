@@ -49,4 +49,4 @@ This project helped strengthen understanding of:
 - **Language:** Python
 - **Version Control:** Git & GitHub
 
-# 🗄️ Database Model
+## 🗄️ Database Model
