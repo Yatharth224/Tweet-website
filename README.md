@@ -48,3 +48,5 @@ This project helped strengthen understanding of:
 - **Database:** SQLite (Default Django Database)
 - **Language:** Python
 - **Version Control:** Git & GitHub
+
+# 🗄️ Database Model
