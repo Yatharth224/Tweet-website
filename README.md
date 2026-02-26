@@ -50,3 +50,5 @@ This project helped strengthen understanding of:
 - **Version Control:** Git & GitHub
 
 ## 🗄️ Database Model
+
+```python
