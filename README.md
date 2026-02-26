@@ -52,3 +52,4 @@ This project helped strengthen understanding of:
 ## 🗄️ Database Model
 
 ```python
+from django.db import models
