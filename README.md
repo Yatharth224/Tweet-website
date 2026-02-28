@@ -59,3 +59,4 @@ This project can be further enhanced with advanced features to make it more scal
 - ✅ Like and Comment functionality  
 - ✅ Follow / Unfollow user system  
 - ✅ REST API integration using Django REST Framework  
+- ✅ Real-time updates using WebSockets  
