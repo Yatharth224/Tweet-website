@@ -57,3 +57,4 @@ This project helped strengthen understanding of:
 
 This project can be further enhanced with advanced features to make it more scalable and production-ready:
 - ✅ Like and Comment functionality  
+- ✅ Follow / Unfollow user system  
