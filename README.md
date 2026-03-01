@@ -81,7 +81,12 @@ django_tweet_project/
 │   │       ├── tweet_form.html
 │   │       └── tweet_confirm_delete.html
 │   │
-
+│   ├── static/                # CSS, JS, Images
+│   ├── models.py              # Database models
+│   ├── views.py               # Business logic
+│   ├── forms.py               # Django forms
+│   ├── urls.py                # App-level URLs
+│   └── admin
 
 
 
