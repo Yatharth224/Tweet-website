@@ -98,6 +98,8 @@ django_tweet_project/
   The project is divided into a main configuration module and a dedicated app module.
 
 
+- **Reusable App Structure:**  
+  `tweet_app` is designed as a modular Django app that can be reused or extended in larger systems.
 
 
 
