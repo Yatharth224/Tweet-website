@@ -87,7 +87,12 @@ django_tweet_project/
 │   ├── forms.py               # Django forms
 │   ├── urls.py                # App-level URLs
 │   └── admin
+│
+├── db.sqlite3                 # Database file
+└── README.md                  # Project documentation
+```
 
+---
 
 
 
