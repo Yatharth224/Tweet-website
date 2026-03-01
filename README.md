@@ -90,6 +90,12 @@ django_tweet_project/
 
 
 
+---
+
+### 📌 Architecture Explanation
+
+- **Separation of Concerns:**  
+  The project is divided into a main configuration module and a dedicated app module.
 
 
 
