@@ -72,7 +72,15 @@ django_tweet_project/
 │   ├── asgi.py                # ASGI configuration
 │   └── wsgi.py                # WSGI configuration
 │
-
+├── tweet_app/                 # Core application module
+│   ├── migrations/            # Database migration files
+│   ├── templates/
+│   │   └── tweet_app/
+│   │       ├── base.html
+│   │       ├── tweet_list.html
+│   │       ├── tweet_form.html
+│   │       └── tweet_confirm_delete.html
+│   │
 
 
 
