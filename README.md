@@ -54,43 +54,30 @@ This project helped strengthen understanding of:
 
 ---
 
+---
+
 ## 🏗️ Project Architecture
 
 The project follows a modular and scalable Django application structure.
 
+```
 django_tweet_project/
 │
-├── manage.py # Django project entry point
+├── manage.py                  # Django project entry point
 │
-├── django_tweet_project/ # Main project configuration
-│ ├── init.py
-│ ├── settings.py # Project settings and configurations
-│ ├── urls.py # Root URL configuration
-│ ├── asgi.py # ASGI configuration
-│ └── wsgi.py # WSGI configuration
+├── django_tweet_project/      # Main project configuration
+│   ├── __init__.py
+│   ├── settings.py            # Project settings and configurations
+│   ├── urls.py                # Root URL configuration
+│   ├── asgi.py                # ASGI configuration
+│   └── wsgi.py                # WSGI configuration
 │
-├── tweet_app/ # Core application module
-│ ├── migrations/ # Database migration files
-│ ├── templates/ # HTML templates
-│ │ └── tweet_app/
-│ │ ├── base.html
-│ │ ├── tweet_list.html
-│ │ ├── tweet_form.html
-│ │ └── tweet_confirm_delete.html
-│ │
-│ ├── static/ # CSS, JS, images
-│ ├── models.py # Database models
-│ ├── views.py # Business logic
-│ ├── forms.py # Django forms
-│ ├── urls.py # App-level URLs
-│ └── admin.py # Admin configuration
-│
-├── db.sqlite3 # Database file
-└── README.md # Project documentation
 
 
 
----
+
+
+
 
 ### 📌 Architecture Explanation
 
