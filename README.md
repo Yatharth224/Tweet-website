@@ -110,7 +110,12 @@ django_tweet_project/
 - **Scalable Template Organization:**  
   Templates are organized inside app-specific folders to avoid conflicts in large-scale applications.
 
+- **Clean URL Routing:**  
+  Root URLs are managed in the project directory, while app-specific URLs are handled separately.
 
+This structure ensures maintainability, scalability, and clean project organization following Django best practices.
+
+---
 
 
 
