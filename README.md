@@ -51,6 +51,29 @@ This project helped strengthen understanding of:
 
 
 
+
+---
+
+## 🏗️ Project Architecture
+
+The project follows a modular and scalable Django application structure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## 🔮 Future Scope
