@@ -102,7 +102,8 @@ django_tweet_project/
   `tweet_app` is designed as a modular Django app that can be reused or extended in larger systems.
 
 
-
+- **Scalable Template Organization:**  
+  Templates are organized inside app-specific folders to avoid conflicts in large-scale applications.
 
 
 
