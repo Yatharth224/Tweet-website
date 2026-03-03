@@ -128,6 +128,13 @@ The architecture ensures modularity, maintainability, and scalability.
 
 ### 🔷 High-Level Request Lifecycle
 
+```
+┌──────────────────────┐
+│      Client (User)   │
+│   Browser / Frontend │
+└───────────┬──────────┘
+            │ HTTP Request
+            ▼
 
 
 
