@@ -135,7 +135,11 @@ The architecture ensures modularity, maintainability, and scalability.
 └───────────┬──────────┘
             │ HTTP Request
             ▼
-
+┌──────────────────────┐
+│  URL Dispatcher      │
+│  (Project urls.py)   │
+└───────────┬──────────┘
+            ▼
 
 
 ---
