@@ -145,7 +145,11 @@ The architecture ensures modularity, maintainability, and scalability.
 │   (Business Logic)   │
 └───────────┬──────────┘
             ▼            
-
+┌──────────────────────┐
+│       Model Layer    │
+│  (Django ORM)        │
+└───────────┬──────────┘
+            ▼
 
 ---
 
