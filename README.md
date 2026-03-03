@@ -140,6 +140,11 @@ The architecture ensures modularity, maintainability, and scalability.
 │  (Project urls.py)   │
 └───────────┬──────────┘
             ▼
+┌──────────────────────┐
+│        View Layer    │
+│   (Business Logic)   │
+└───────────┬──────────┘
+            ▼            
 
 
 ---
