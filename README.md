@@ -118,6 +118,16 @@ This structure ensures maintainability, scalability, and clean project organizat
 ---
 
 
+## 🏗️ Application Architecture Flow
+
+This project is built using Django’s **Model–View–Template (MVT)** architectural pattern with a clear separation of responsibilities across layers.
+
+The architecture ensures modularity, maintainability, and scalability.
+
+---
+
+### 🔷 High-Level Request Lifecycle
+
 
 
 
