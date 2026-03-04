@@ -150,7 +150,13 @@ The architecture ensures modularity, maintainability, and scalability.
 │  (Django ORM)        │
 └───────────┬──────────┘
             ▼
-
+┌──────────────────────┐
+│       Database       │
+│      (SQLite)        │
+└───────────┬──────────┘
+            ▲
+            │ Data Response
+            ▼
 ---
 
 ## 🔮 Future Scope
