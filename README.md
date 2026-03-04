@@ -169,6 +169,27 @@ The architecture ensures modularity, maintainability, and scalability.
 ```                      
 ---
 
+### 🔎 Layer Responsibilities
+
+#### 1️⃣ Client Layer
+- Initiates HTTP requests (GET, POST).
+- Displays rendered HTML response.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🔮 Future Scope
 
 This project can be further enhanced with advanced features to make it more scalable and production-ready:
