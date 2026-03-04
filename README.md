@@ -176,6 +176,9 @@ The architecture ensures modularity, maintainability, and scalability.
 - Displays rendered HTML response.
 
 
+#### 2️⃣ URL Routing Layer
+- Maps endpoints to corresponding views.
+- Separates project-level and app-level routing.
 
 
 
