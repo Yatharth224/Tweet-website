@@ -161,7 +161,12 @@ The architecture ensures modularity, maintainability, and scalability.
 │     Template Layer   │
 │   (HTML Rendering)   │
 └───────────┬──────────┘
-            ▼            
+            ▼  
+┌──────────────────────┐
+│    HTTP Response     │
+│   Rendered Web Page  │
+└──────────────────────┘
+```                      
 ---
 
 ## 🔮 Future Scope
