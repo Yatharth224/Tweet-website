@@ -181,7 +181,11 @@ The architecture ensures modularity, maintainability, and scalability.
 - Separates project-level and app-level routing.
 
 
-
+#### 3️⃣ View Layer (Business Logic)
+- Handles request validation.
+- Processes form data.
+- Enforces authentication & authorization.
+- Interacts with models.
 
 
 
