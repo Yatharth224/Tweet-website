@@ -213,6 +213,17 @@ User Login → Django Auth System → Session Creation → Access Control → Pr
 - Only authenticated users can create/edit/delete tweets.
 - Ownership validation ensures users cannot modify others' data.
 
+---
+
+### 📌 Architectural Strengths
+
+- Clear separation of concerns  
+- Modular app-based structure  
+- Secure ORM-based database interaction  
+- Easily extendable to REST APIs (DRF)  
+- Ready for production-level scaling  
+
+---
 
 
 ## 🔮 Future Scope
