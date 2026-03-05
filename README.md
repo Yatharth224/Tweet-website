@@ -187,9 +187,17 @@ The architecture ensures modularity, maintainability, and scalability.
 - Enforces authentication & authorization.
 - Interacts with models.
 
+#### 4️⃣ Model Layer
+- Defines database schema.
+- Manages relationships (User ↔ Tweet).
+- Executes database queries using Django ORM.
+- Ensures data integrity.
 
 
-
+#### 5️⃣ Template Layer
+- Renders dynamic content.
+- Displays user-specific data.
+- Maintains UI consistency.
 
 
 
