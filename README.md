@@ -200,6 +200,9 @@ The architecture ensures modularity, maintainability, and scalability.
 - Maintains UI consistency.
 
 
+---
+
+### 🔐 Authentication & Authorization Flow
 
 
 
