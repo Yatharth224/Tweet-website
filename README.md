@@ -205,6 +205,13 @@ The architecture ensures modularity, maintainability, and scalability.
 ### 🔐 Authentication & Authorization Flow
 
 
+```
+User Login → Django Auth System → Session Creation → Access Control → Protected Views
+```
+
+- Django’s built-in authentication system manages secure login.
+- Only authenticated users can create/edit/delete tweets.
+- Ownership validation ensures users cannot modify others' data.
 
 
 
